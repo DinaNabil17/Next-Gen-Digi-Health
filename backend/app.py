@@ -27,8 +27,8 @@ app.secret_key = "nextgen_digi_health_secret_key"
 bcrypt = Bcrypt(app)
 
 # ================= DATABASE =================
-MONGO_USERNAME=nextgen_admin
-MONGO_PASSWORD=nextgen123
+MONGO_USERNAME=****
+MONGO_PASSWORD=***
 
 MONGO_URI = (
     f"mongodb+srv://{username}:{password}"
